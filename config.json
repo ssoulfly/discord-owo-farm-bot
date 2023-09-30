@@ -1,0 +1,11 @@
+{
+  "owoId": "owoBotId",
+  "token": "discord bot token id",
+  "delay": {
+    "min": 30,
+    "max": 60
+  },
+  "webhookURL": "discord channel webhook url",
+  "consoleColor": "blue",
+  "disableSendMessage": true
+}
